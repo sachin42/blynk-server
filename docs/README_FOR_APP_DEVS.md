@@ -140,7 +140,7 @@ Response message structure:
     MENU
 
 
-[List is here](https://github.com/sachin42/blynk-server/blob/master/server/core/src/main/java/cc/blynk/server/core/model/enums/WidgetType.java#L8).
+[List is here](https://github.com/sachin42/blynk-server/blob/master/server/core/src/main/java/cc/blynk/server/core/model/widgets/Widget.java#L84).
 
 ## JSON structure
 
