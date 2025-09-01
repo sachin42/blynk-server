@@ -199,7 +199,6 @@ Response message structure:
     
 ## Hardware command description
     
-Could be found [here](https://github.com/sachin42/blynk-library/blob/master/docs/Implementing.md#hardwarebridge-command-body).
     
 ## Command workflow
 
