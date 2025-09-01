@@ -197,7 +197,6 @@ Response message structure:
             ]
     }
     
-## Hardware command description
     
     
 ## Command workflow
